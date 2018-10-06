@@ -1,0 +1,12 @@
+body{width:960px;padding:1em;font-family:Arial,Helvetica Neue,sans-serif;color: #777;background: #777;font-size: 18px;text-align: center;}
+div,section,main,aside,header,footer{background: #ebebeb;border:1px solid lightgray;padding:.5em;margin-bottom:1em;text-align: center;}
+article{background: #777;color: #ebebeb;text-align: center;}
+h1,p{background: #ebebeb;color: #777;text-align: center;}
+h4{background: #ebebeb;color: #777;text-align: right;}
+section{width:490px;text-align: center;}
+
+//Need to align all the titles and subtitles with their correct formats.
+//Need to format all the borders to appropriately align with the example webpage.
+//Also need to adjust the font sizes of all the attributes to correctly match the example webpage.
+//Need to format the hyperlinks embedded within the main section.
+//Need to learn more about formatting with floats to help align the format to match the format of the example webpage.
